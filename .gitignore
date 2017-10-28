@@ -5,5 +5,8 @@
 !.gitignore
 !docker-compose.yml
 !nginx.tmpl
-!.env-sample
+!.env.example
+!docker-compose-production.yml
+!LICENSE
+!docker-gen.docker
 !README.md
