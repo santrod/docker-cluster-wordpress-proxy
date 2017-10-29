@@ -6,7 +6,7 @@
 !docker-compose.yml
 !nginx.tmpl
 !.env.example
-!docker-compose-production.yml
+!docker-compose-machine.yml
 !LICENSE
 !docker-gen.docker
 !README.md
