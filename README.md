@@ -1,4 +1,8 @@
-# Install proxy project
+# Proxy project
+
+This repository contains an nginx proxy working with letsencrypt used to route request into a worpdress sites cluster.
+
+## Install proxy project
 
 Follow the [main project instructions](https://github.com/santrod/docker_cluster_wordpress_app)
 
