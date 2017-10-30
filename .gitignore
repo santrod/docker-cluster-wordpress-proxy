@@ -8,5 +8,5 @@
 !.env.example
 !docker-compose-machine.yml
 !LICENSE
-!docker-gen.docker
+!docker-gen-machine.docker
 !README.md
