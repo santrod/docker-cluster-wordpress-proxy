@@ -7,5 +7,7 @@ Follow the [main project instructions](https://github.com/santrod/docker_cluster
 All credits goes to:
 
 [@jwilder](https://github.com/jwilder/nginx-proxy)
+
 [@JrCs](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion)
+
 [@evertramos](https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion)
